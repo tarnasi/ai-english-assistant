@@ -72,3 +72,10 @@ This is an early alpha centered on one workflow: manually analyzing an
 English-language workplace message and drafting a response. Telegram
 connectivity, message sending, persistent history, and model configuration are
 not part of the current implementation.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE), copyright
+© 2026 Shahriyar Tarnasi. You may fork, modify, and redistribute the project,
+provided the copyright notice and license text are included with copies or
+substantial portions of the software.
